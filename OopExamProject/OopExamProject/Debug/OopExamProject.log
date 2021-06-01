@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\user\source\repos\OopExamProject\OopExamProject\Color.h(12,34): warning C4267: 'argument': conversion from 'size_t' to 'WORD', possible loss of data
+C:\Users\user\source\repos\OopExamProject\OopExamProject\Category.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\user\source\repos\OopExamProject\OopExamProject\Database.h(130): warning C4715: 'Database::adminLogin': not all control paths return a value
+C:\Users\user\source\repos\OopExamProject\OopExamProject\Stock.h(27): warning C4715: 'Stock::getProductById': not all control paths return a value
+  OopExamProject.vcxproj -> C:\Users\user\source\repos\OopExamProject\Debug\OopExamProject.exe

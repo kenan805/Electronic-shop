@@ -1,0 +1,34 @@
+New product added.
+Product category id: 1
+Product id: 5
+Product name: Notebook
+Product brand: Acer
+Product price: 1899.99
+Connected datetime: Sat May 29 19:10:18 2021
+
+New product added.
+Product category id: 2
+Product id: 6
+Product name: Smartphone
+Product brand: Xioami
+Product price: 459.99
+Connected datetime: Sat May 29 19:11:16 2021
+
+New product added.
+Product category id: 1
+Product id: 5
+Product name: Notebook
+Product brand: Acer
+Product price: 1489.99
+Connected datetime: Sun May 30 00:06:33 2021
+
+
+New product added.
+Product category id: 2
+Product id: 6
+Product name: 
+Product brand: Samsung
+Product price: 659.99
+Product quantity: 10
+Connected datetime: Tue Jun  1 14:16:19 2021
+

@@ -1,0 +1,24 @@
+Error code: Error N0001
+Line: 38
+Source: C:\Users\user\source\repos\OopExamProject\OopExamProject\Client.h
+Datetime: Tue Jun  1 09:22:16 2021
+
+
+Error code: Error N0001
+Line: 53
+Source: C:\Users\user\source\repos\OopExamProject\OopExamProject\Client.h
+Datetime: Tue Jun  1 10:16:27 2021
+
+
+Error code: Error IN004
+Line: 57
+Source: C:\Users\user\source\repos\OopExamProject\OopExamProject\Client.h
+Datetime: Tue Jun  1 11:16:47 2021
+
+
+Error code: Error IN003
+Line: 42
+Source: C:\Users\user\source\repos\OopExamProject\OopExamProject\Client.h
+Datetime: Tue Jun  1 12:06:45 2021
+
+
