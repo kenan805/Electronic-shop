@@ -100,31 +100,7 @@ public:
 	void setIsOpticalDrive(const bool& isOpticalDrive) {
 		_isOpticalDrive = isOpticalDrive;;
 	}
-
-	/*void UpdateProduct() override {
-		string brand, model,processor;
-		double price;
-		size_t ram, memoryHDD, memorySSD;
-		bool isOpticDrive;
-		cout << "Enter update brand: ";
-		cin.ignore();
-		getline(cin, brand);
-		cout << "Enter update model: ";
-		getline(cin, model);
-		cout << "Enter update processor: ";
-		getline(cin, processor);
-		cout << "Enter update price: ";
-		cin >> price;
-		cout << "Enter update ram: ";
-		cin >> ram;
-		cout << "Enter update memory(HDD): ";
-		cin >> memoryHDD;
-		cout << "Enter update memory(SSD): ";
-		cin >> memorySSD;
-		cout << "Enter update optical drive: ";
-		cin >> isOpticDrive;
-	}*/
-
+	
 	void input() override {
 		cout << "Enter notebook category id: ";
 		cin >> _category_id;
